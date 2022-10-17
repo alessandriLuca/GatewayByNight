@@ -1,0 +1,1 @@
+execute at @a run setblock ~ ~ ~ diamond_block
