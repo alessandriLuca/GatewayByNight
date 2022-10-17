@@ -9,6 +9,6 @@ Each gateway chance is specified by the value gte:random.
 TO add a probability add another file or modify the existing files in 
 GatewayByNight/data/gte/predicates/random* . Enjoy the new frontier of raids! 
 
-![alt text](https://github.com/alessandriLuca/GatewayByNight/edit/main/img.png)
+![alt text](https://github.com/alessandriLuca/GatewayByNight/blob/main/img.png)
 
 A huge thanks to the discord server Daily Datapackers!  And in particular to thomasdelacombe#1253 and Flynecraft#1016 ! 
