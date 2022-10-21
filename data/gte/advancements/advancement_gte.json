@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_sword"
+    },
+    "title": "invasionStart",
+    "description": "You just opened the doors of your world",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:nether_travel"
+    }
+  }
+}
